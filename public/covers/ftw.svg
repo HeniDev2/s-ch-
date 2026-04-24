@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#ea580c"/>
+      <stop offset="1" stop-color="#7c2d12"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#g3)"/>
+  <g fill="#fff7ed" font-family="Georgia, serif">
+    <text x="40" y="140" font-size="56" font-weight="700">Four</text>
+    <text x="40" y="200" font-size="56" font-weight="700">Thousand</text>
+    <text x="40" y="260" font-size="56" font-weight="700">Weeks</text>
+    <line x1="40" y1="295" x2="160" y2="295" stroke="#fff7ed" stroke-width="2" opacity="0.6"/>
+    <text x="40" y="335" font-size="18" opacity="0.85">Time Management</text>
+    <text x="40" y="357" font-size="18" opacity="0.85">for Mortals</text>
+    <text x="40" y="560" font-size="22" font-style="italic" opacity="0.9">Oliver Burkeman</text>
+  </g>
+</svg>

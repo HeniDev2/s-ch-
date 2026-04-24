@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g4" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#115e59"/>
+      <stop offset="1" stop-color="#042f2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#g4)"/>
+  <g fill="#ccfbf1" font-family="Georgia, serif">
+    <text x="40" y="140" font-size="54" font-weight="700">Bốn</text>
+    <text x="40" y="200" font-size="54" font-weight="700">Nghìn</text>
+    <text x="40" y="260" font-size="54" font-weight="700">Tuần</text>
+    <line x1="40" y1="295" x2="160" y2="295" stroke="#ccfbf1" stroke-width="2" opacity="0.55"/>
+    <text x="40" y="340" font-size="20" opacity="0.85">Tóm Tắt Chi Tiết</text>
+    <text x="40" y="560" font-size="18" font-style="italic" opacity="0.75">Bản tiếng Việt</text>
+  </g>
+</svg>
